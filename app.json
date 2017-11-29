@@ -1,0 +1,11 @@
+{
+  "name": "agar-clone",
+  "description": "Proxy for skeel",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": "https://github.com/Nikokatsu/CDoge"
+}
